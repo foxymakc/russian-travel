@@ -1,0 +1,30 @@
+.place__paragraph {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 163%;
+  margin-bottom: 0px;
+  margin-top: 0;
+  text-align: left;
+}
+
+@media (min-width: 768px) {
+    .place__paragraph {
+       width: 352px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .place__paragraph {
+      font-size: 18px;
+      line-height: 163%;
+      width: 456px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .place__paragraph {
+      width: 484px;
+    }
+}

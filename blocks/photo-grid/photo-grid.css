@@ -7,7 +7,7 @@
     grid-template-rows: 216px;
     gap: 12px;
     justify-content: center;
-    align-content: center
+    align-content: center;
 }
 
 @media (min-width: 768px) {

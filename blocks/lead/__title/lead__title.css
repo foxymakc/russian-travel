@@ -5,25 +5,22 @@
   font-size: 40px;
   line-height: 44px;
   text-align: center;
-  margin: 48px 16px 16px 16px;
+  display: flex;
+  margin: 48px auto 16px;
+  width: 288px;
 }
 
 @media (min-width: 768px) {
   .lead__title {
     font-size: 96px;
     line-height: 100px;
-    margin: 48px 24px 32px 24px;
-  }
-}
-
-@media (min-width: 1024px) {
-  .lead__title {
-    margin: 48px 152px 32px 152px;
+    margin: 48px auto 32px;
+    width: 720px;
   }
 }
 
 @media (min-width: 1280px) {
   .lead__title {
-    margin: 56px 280px 32px 280px;
+    margin-top: 56px;
   }
 }

@@ -7,8 +7,10 @@
   position: relative;
   width: 288px;
   display: flex;
-  margin: 0 auto 16px;
   text-align: center;
+  color: white;
+  margin-bottom: 16px;
+  margin-top: 0;
 }
 
 @media (min-width: 768px) {

@@ -6,8 +6,8 @@
 }
 
 @media (min-width: 768px) {
-    .place__paragraphs {
-      padding-left: 0;
-      padding-right: 0;
-    }
+  .place__paragraphs {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }

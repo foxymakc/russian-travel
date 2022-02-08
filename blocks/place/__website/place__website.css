@@ -5,23 +5,11 @@
 
 @media (min-width: 768px) {
   .place__website {
-      padding-left: 0;
-      margin-bottom: 48px;
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      justify-content: flex-end;
-  }
-}
-
-@media (min-width: 1024px) {
-  .place__website {
-    
-  }
-}
-
-@media (min-width: 1280px) {
-  .place__website {
-
+    padding-left: 0;
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
   }
 }

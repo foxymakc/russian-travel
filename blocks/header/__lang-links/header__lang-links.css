@@ -1,11 +1,11 @@
 .header__lang-links {
-    display: flex;
-    align-items: center;
-    margin-top: 14px;
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
 }
 
 @media (min-width: 768px) {
-    .header__lang-links {
-        margin-top: 18px;
-    }
+  .header__lang-links {
+    margin-top: 18px;
+  }
 }

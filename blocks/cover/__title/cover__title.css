@@ -6,11 +6,14 @@
   line-height: 35px;
   position: relative;
   width: 288px;
-  display: flex;
   text-align: center;
   color: white;
   margin-bottom: 16px;
   margin-top: 0;
+  grid-column: 1;
+  grid-row: 1;
+  align-self: end;
+  justify-self: center;
 }
 
 @media (min-width: 768px) {

@@ -6,10 +6,13 @@
   line-height: 16px;
   text-align: center;
   position: relative;
-  display: flex;
   width: 288px;
   color: white;
-  margin: 0 auto 0;
+  margin: 0;
+  grid-column: 1;
+  grid-row: 2;
+  align-self: start;
+  justify-self: center;
 }
 
 @media (min-width: 768px) {
